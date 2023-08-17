@@ -1,0 +1,60 @@
+
+.lasanha{
+    width: 600px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    
+    }
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+/* Estilos para títulos e parágrafos */
+h1, h3, h4, p {
+    margin: 10px;
+}
+
+/* Estilos para listas */
+ul, ol {
+    margin: 10px;
+    padding-left: 20px;
+}
+.lasanha-h1{
+    text-align: center;
+    color: red;
+}
+.ingredientes{
+    color: red;
+    font-size: 24px;
+}
+
+.preparo{
+    color: red;
+    font-size: 24px;
+}
+
+button {
+    background: white;
+    border: 1px solid #eee;
+    padding: 8px 24px;
+    margin: 0px auto;
+  }
+.menuprincipal{
+    height: 153px;
+    
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 20px; /* Adapte o espaçamento entre os botões conforme necessário */
+}
